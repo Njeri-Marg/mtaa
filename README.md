@@ -1,6 +1,6 @@
 # Mtaa
 #### 25 March 2019
-#### By **Kironji Kevin**:sunglasses:
+#### By **Margret Njeri**:sunglasses:
 ## Description
 Mtaa is a web application that allows you to be in the loop about everything happening in your neighborhood. From contact information of different handyman to meeting announcements or even alerts. Mtaa is an inspiration to make living neighborhoods safe,convenient to live in and to make it easier to trade skills. Mtaa creates a community where one can find specific police and hospital contacts in specific neighborhoods that are available on the platform. Mtaa members get to even post what they feel is valuable to share to others.
 ### User Stories
@@ -43,7 +43,7 @@ $ sudo apt-get install postgresql postgresql-contrib libpq-dev
 ## Known bugs
 No known bugs as at the completion of the project.
 ## Support and contact details
-Feel free to reach me at karonjekevin67@gmail.com
+Feel free to reach me at njerimargret70@gmail.com
 ## License
-The project is under the [MIT](https://github.com/Fahari/mtaa/blob/master/LICENSE) licence
-Copyright (c) 2019 **Kironji Kevin**
+The project is under the [MIT](https://github.com/njeri-marg/mtaa/blob/master/LICENSE) licence
+Copyright (c) 2019 **Margret Njeri**
